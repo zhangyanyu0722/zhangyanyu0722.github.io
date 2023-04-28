@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,45 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+<u><a href="https://github.com/zhangyanyu0722/yanyu_cv/main/CV.pdf">Download CV here.</a></u>
+<br/>
+
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of California, Riverside, 2021 - Present 
-* M.S. in Electrical and Computer Engineering, Boston University, 2019 - 2021
-* B.S. in Robotics, University of Detroit Mercy, 2018 - 2019
-* B.S. in Mechanical Design, Manufacture and Automation, Beijing University of Chemistry Technology, 2015 - 2018
-
-Research Experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ph.D in Electrical and Computer Engineering, University of California, Riverside
+* M.S. in Electrical and Computer Engineering, Boston University
+* B.S. in Robotics, University of Detroit Mercy
+* B.S. in Mechanical Design, Manufacture and Automation, Beijing University of Chemistry Technology
   
 Working Experience
 ======
-* Summer 2015: Research Assistant
-  * Securing Integrity of Micro-Service Builds on Cloud at IBM
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Estimation and Sensor Fusion for Autonomous Vehicles Internship
+  * Mitsubishi Electric Research Laboratories
+  * Time: Jan 2023 - Apr 2023
+  * Supervisor: Karl Berntorp
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-If the embedded PDF below does not load, you can <u><a href="https://github.com/zhangyanyu0722/yanyu_cv/main/CV.pdf">download it here.</a></u>
-<br/>
-
-
+* Securing Integrity of Micro-Service Builds on Cloud Internship
+  * IBM
+  * Time: Sep 2020 - Dec 2020
+  * Supervisor: Shripad Nadgowda

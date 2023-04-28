@@ -1,5 +1,5 @@
 ---
-title: "EE132: Automatic Control (Spring 2023)"
+title: "UCR EE132: Automatic Control (Spring 2023)"
 collection: teaching
 teaching_type: "Undergraduate course"
 permalink: /teaching/spring23-132/
