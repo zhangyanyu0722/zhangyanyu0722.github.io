@@ -1,5 +1,5 @@
 ---
-title: "BU EC500: Building Software"
+title: "BU EC500: Building Software (Spring 2021)"
 collection: teaching
 teaching_type: "Graduate course"
 permalink: /teaching/spring21-500/
