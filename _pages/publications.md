@@ -63,6 +63,7 @@ author_profile: true
                 <strong>Y. Zhang</strong>, P. Zhu, and W. Ren
               <br>
               <em>IEEE Conference on Control Technology and Applications (CCTA), 2023.</em><br>
+              <a href="https://ieeexplore.ieee.org/document/10253266"><strong>[Paper]</strong></a>
             </td>
           </tr>
     </table>
