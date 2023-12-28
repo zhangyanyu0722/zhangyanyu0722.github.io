@@ -64,6 +64,7 @@ author_profile: true
               <br>
               <em>IEEE Conference on Control Technology and Applications (CCTA), 2023.</em><br>
               <a href="https://ieeexplore.ieee.org/document/10253266"><strong>[Paper]</strong></a>
+              <a href="https://www.youtube.com/watch?v=nDE9S8CzRk4"><strong>[Video]</strong></a>
             </td>
           </tr>
     </table>
