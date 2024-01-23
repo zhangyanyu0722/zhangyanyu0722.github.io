@@ -27,7 +27,7 @@ author_profile: true
               <img src="../images/cdc2023.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>Cooperative 3-D Target State Estimation and Active Tracking
+                <papertitle>Moving Target Estimation and Active Tracking in Multi-Robot Systems
                 </papertitle>
               <br>
                 J. Xu, P. Zhu, <strong>Y. Zhang</strong>, and W. Ren
