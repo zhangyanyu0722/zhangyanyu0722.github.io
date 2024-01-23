@@ -9,21 +9,6 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/icra2024.png" alt="hpp" style="border-style: none" >
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>Cooperative Lane Mapping using Fixed-Lag Smoothing
-                </papertitle>
-              <br>
-                <strong>Y. Zhang</strong>, H. Zhou, H. Liu, H. Qiu, and W. Ren
-              <br>
-              <em>IEEE International Conference on Robotics and Automation (ICRA), 2024. [Submitted]</em><br>
-            </td>
-          </tr>
-    </table>
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/acc2024.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -32,7 +17,7 @@ author_profile: true
               <br>
                 <strong>Y. Zhang</strong>, M. Greiff, W. Ren, and K.Berntorp
               <br>
-              <em>American Control Conference (ACC), 2024. [Submitted]</em><br>
+              <em>American Control Conference (ACC), 2024.</em><br>
             </td>
           </tr>
     </table>
@@ -48,6 +33,7 @@ author_profile: true
                 J. Xu, P. Zhu, <strong>Y. Zhang</strong>, and W. Ren
               <br>
               <em>IEEE Conference on Decision and Control (CDC), 2023.</em><br>
+              <a href="https://ieeexplore.ieee.org/document/10383940"><strong>[Paper]</strong></a>
             </td>
           </tr>
     </table>
