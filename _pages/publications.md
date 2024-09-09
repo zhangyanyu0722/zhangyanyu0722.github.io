@@ -63,6 +63,7 @@ author_profile: true
                 <strong>Y. Zhang</strong>, M. Greiff, W. Ren, and K.Berntorp
               <br>
               <em>American Control Conference (ACC), 2024.</em><br>
+              <a href="https://ieeexplore.ieee.org/document/10644978"><strong>[Paper]</strong></a>
             </td>
           </tr>
     </table>
