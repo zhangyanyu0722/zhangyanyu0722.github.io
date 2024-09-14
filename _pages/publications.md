@@ -45,9 +45,9 @@ author_profile: true
                 <papertitle><strong>NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields</strong>
                 </papertitle>
               <br>
-                <strong>Y. Zhang</strong>, D. Wang, J. Xu, M. Liu, P. Zhu, H. Qiu and W. Ren
+                <strong>Y. Zhang</strong>, D. Wang, J. Xu, M. Liu, P. Zhu, and W. Ren
               <br>
-              <em>American Control Conference (ACC), 2025. [Submitted]</em><br>
+              <em>IEEE International Conference on Robotics and Automation (ICRA), 2025. [Submitted]</em><br>
             </td>
           </tr>
     </table>
