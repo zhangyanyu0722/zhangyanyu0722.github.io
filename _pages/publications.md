@@ -54,15 +54,15 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/wintech2024.png" alt="hpp" style="border-style: none" >
+              <img src="../images/hotmobile2025.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle><strong>PUSH: Portable Universal Sensoring Hub</strong>
+                <papertitle><strong> No-PUSH: Networked Open-source Portable Universal Sensing Hub</strong>
                 </papertitle>
               <br>
-                <strong>Y. Zhang</strong>, B. Wu, A. Elidrissi, C. Wei, H. Zhou, J. Nguyen, J. Li, J. Xu, N. Asavisanu, R. Mo, X. Zhao, Z. Tan, G. Wu, D. Bharadia, and H. Qiu
+                <strong>Y. Zhang</strong>, B. Wu, A. Elidrissi, J. Li, J. Nguyen, J. Xu, N. Asavisanu, R. Mo, Z. Tan, D. Bharadia, and H. Qiu
               <br>
-              <em>The 18th ACM Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization (WiNTECH), 2024. [Submitted]</em><br>
+              <em>The 26th International Workshop on Mobile Computing Systems and Applications (HotMobile), 2025. [Submitted]</em><br>
             </td>
           </tr>
     </table>
