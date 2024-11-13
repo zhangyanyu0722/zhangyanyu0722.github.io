@@ -17,7 +17,7 @@ author_profile: true
               <br>
                 <strong>Y. Zhang</strong>, H. Zhou, Y. Tsai, W. Ren, J. Chen, S. Krishnamurthy, and H. Qiu
               <br>
-              <em>22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2025. [Submitted]</em><br>
+              <em>22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2025. [Under Review]</em><br>
             </td>
           </tr>
     </table>
@@ -32,7 +32,7 @@ author_profile: true
               <br>
                 <strong>Y. Zhang</strong>, J. Xu, and W. Ren
               <br>
-              <em>IEEE International Conference on Robotics and Automation (ICRA), 2025. [Submitted]</em><br>
+              <em>IEEE International Conference on Robotics and Automation (ICRA), 2025. [Under Review]</em><br>
             </td>
           </tr>
     </table>
@@ -47,7 +47,7 @@ author_profile: true
               <br>
                 <strong>Y. Zhang</strong>, D. Wang, J. Xu, M. Liu, P. Zhu, and W. Ren
               <br>
-              <em>IEEE International Conference on Robotics and Automation (ICRA), 2025. [Submitted]</em><br>
+              <em>IEEE International Conference on Robotics and Automation (ICRA), 2025. [Under Review]</em><br>
             </td>
           </tr>
     </table>
@@ -62,7 +62,7 @@ author_profile: true
               <br>
                 <strong>Y. Zhang</strong>, B. Wu, A. Elidrissi, J. Li, J. Nguyen, J. Xu, N. Asavisanu, R. Mo, Z. Tan, D. Bharadia, and H. Qiu
               <br>
-              <em>The 26th International Workshop on Mobile Computing Systems and Applications (HotMobile), 2025. [Submitted]</em><br>
+              <em>The 26th International Workshop on Mobile Computing Systems and Applications (HotMobile), 2025. [Under Review]</em><br>
             </td>
           </tr>
     </table>
