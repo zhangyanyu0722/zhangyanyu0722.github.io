@@ -9,22 +9,7 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/nsdi2025.png" alt="hpp" style="border-style: none" >
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle><strong>CooperSLAM: Infrastructure-less Cooperative SLAM for Interactive Multi-user Augmented Reality</strong>
-                </papertitle>
-              <br>
-                <strong>Y. Zhang</strong>, H. Zhou, Y. Tsai, W. Ren, J. Chen, S. Krishnamurthy, and H. Qiu
-              <br>
-              <em>22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2025. [Under Review]</em><br>
-            </td>
-          </tr>
-    </table>
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/icra2025.png" alt="hpp" style="border-style: none" >
+              <img src="../images/iros2025.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle><strong>PLK-Calib: Single-shot and Target-less LiDAR-Camera Extrinsic Calibration using Plucker Lines</strong>
@@ -32,14 +17,14 @@ author_profile: true
               <br>
                 <strong>Y. Zhang</strong>, J. Xu, and W. Ren
               <br>
-              <em>IEEE International Conference on Robotics and Automation (ICRA), 2025. [Under Review]</em><br>
+              <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. [Under Review]</em><br>
             </td>
           </tr>
     </table>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/iros2024.png" alt="hpp" style="border-style: none" >
+              <img src="../images/case2025.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle><strong>NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields</strong>
@@ -47,22 +32,37 @@ author_profile: true
               <br>
                 <strong>Y. Zhang</strong>, D. Wang, J. Xu, M. Liu, P. Zhu, and W. Ren
               <br>
-              <em>IEEE International Conference on Robotics and Automation (ICRA), 2025. [Under Review]</em><br>
+              <em>IEEE 21st International Conference on Automation Science and Engineering (CASE), 2025. [Under Review]</em><br>
             </td>
           </tr>
     </table>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/hotmobile2025.png" alt="hpp" style="border-style: none" >
+              <img src="../images/ccta2025.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle><strong> No-PUSH: Networked Open-source Portable Universal Sensing Hub</strong>
+                <papertitle><strong>Multi-robot Dual Reinforcement Learning Framework for Hybrid Motion Planning</strong>
                 </papertitle>
               <br>
-                <strong>Y. Zhang</strong>, B. Wu, A. Elidrissi, J. Li, J. Nguyen, J. Xu, N. Asavisanu, R. Mo, Z. Tan, D. Bharadia, and H. Qiu
+                J. Xu, D. Wang, <strong>Y. Zhang</strong>, and W. Ren
               <br>
-              <em>The 26th International Workshop on Mobile Computing Systems and Applications (HotMobile), 2025. [Under Review]</em><br>
+              <em>IEEE Conference on Control Technology and Applications (CCTA), 2025. [Under Review]</em><br>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/nsdi2025.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle><strong>CooperSLAM: Infrastructure-less Cooperative SLAM for Interactive Multi-user Augmented Reality</strong>
+                </papertitle>
+              <br>
+                <strong>Y. Zhang</strong>, J. Yue, W. Ren, J. Chen, S. Krishnamurthy, and H. Qiu
+              <br>
+              <em>22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2025. [Under Review]</em><br>
             </td>
           </tr>
     </table>
@@ -79,6 +79,7 @@ author_profile: true
               <br>
               <em>American Control Conference (ACC), 2024.</em><br>
               <a href="https://ieeexplore.ieee.org/document/10644978"><strong>[Paper]</strong></a>
+              <a href="https://www.merl.com/publications/docs/TR2024-093.pdf"><strong>[PDF]</strong></a>
             </td>
           </tr>
     </table>

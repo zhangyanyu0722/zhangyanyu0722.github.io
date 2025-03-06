@@ -14,8 +14,8 @@ redirect_from:
 
 ## EDUCATION
 - **University of California, Riverside**  
-  *Ph.D. in Electrical Engineering*  
-  Dates: Sep. 2021 – Present  
+  *Ph.D. in Electrical and Computer Engineering*  
+  Dates: Sep. 2021 – Mar. 2025  
 
 - **Boston University**  
   *M.S. in Electrical and Computer Engineering*  
@@ -26,9 +26,13 @@ redirect_from:
   Dates: Sep. 2015 – Jun. 2019
 
 ## EXPERIENCE
+- **Algorithm Engineer Intern - SLAM**  
+  *VisionNav Robotics USA Inc.*, Mentor: Yujie Lu  
+  Dates: Dec. 2024 – Mar. 2025  
+
 - **Research Assistant**  
   *Cooperative Vehicle Networks Laboratory (COVEN)*, Mentor: Wei Ren  
-  Dates: Sep. 2021 – Present  
+  Dates: Sep. 2021 – Mar. 2025  
 
 - **Research Intern: Estimation and Sensor Fution for Autonomous Vehicles**  
   *Mitsubishi Electric Research Laboratories (MERL)*, Mentor: Karl Berntorp  
