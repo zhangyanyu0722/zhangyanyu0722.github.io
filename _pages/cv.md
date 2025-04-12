@@ -27,8 +27,8 @@ redirect_from:
 
 ## EXPERIENCE
 - **Staff Algorithm Engineer - SLAM**  
-  *VisionNav Robotics USA Inc.* 
-  Dates: Apr. 2025 – Present 
+  *VisionNav Robotics USA Inc.*  
+  Dates: Apr. 2025 – Present  
 
 - **Algorithm Engineer Intern - SLAM**  
   *VisionNav Robotics USA Inc.*, Mentor: Yujie Lu  
