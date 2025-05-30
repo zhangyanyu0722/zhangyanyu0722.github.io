@@ -63,6 +63,7 @@ author_profile: true
                 <strong>Y. Zhang</strong>, D. Wang, J. Xu, M. Liu, P. Zhu, and W. Ren
               <br>
               <em>IEEE 21st International Conference on Automation Science and Engineering (CASE), 2025.</em><br>
+              <a href="https://arxiv.org/pdf/2503.07952.pdf"><strong>[arXiv]</strong></a>
             </td>
           </tr>
     </table>
@@ -112,7 +113,7 @@ author_profile: true
               <br>
               <em>IEEE Conference on Control Technology and Applications (CCTA), 2023.</em><br>
               <a href="https://ieeexplore.ieee.org/document/10253266"><strong>[Paper]</strong></a>
-              <a href="https://arxiv.org/pdf/2311.05717.pdf"><strong>[arxiv]</strong></a>
+              <a href="https://arxiv.org/pdf/2311.05717.pdf"><strong>[arXiv]</strong></a>
               <a href="https://www.youtube.com/watch?v=nDE9S8CzRk4"><strong>[Video]</strong></a>
             </td>
           </tr>
