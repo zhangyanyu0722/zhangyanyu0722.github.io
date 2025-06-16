@@ -62,7 +62,7 @@ author_profile: true
               <br>
                 <strong>Y. Zhang</strong>, D. Wang, J. Xu, M. Liu, P. Zhu, and W. Ren
               <br>
-              <em>IEEE 21st International Conference on Automation Science and Engineering (CASE), 2025.</em><br>
+              <em>IEEE International Conference on Automation Science and Engineering (CASE), 2025.</em><br>
               <a href="https://arxiv.org/pdf/2503.07952.pdf"><strong>[arXiv]</strong></a>
             </td>
           </tr>
