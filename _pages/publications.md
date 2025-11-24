@@ -9,13 +9,58 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/ccta2025.png" alt="hpp" style="border-style: none" >
+              <img src="../images/cvpr2026.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle><strong>Multi-robot Dual Reinforcement Learning Framework for Hybrid Motion Planning</strong>
+                <papertitle><strong>CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization</strong>
                 </papertitle>
               <br>
-                J. Xu, D. Wang, <strong>Y. Zhang</strong>, and W. Ren
+                B. Wu, R. Mo, J. Yue, <strong>Y. Zhang</strong>, J. Nguyen, G. Wu, A. Chowdhury, M. Barth, and H. Qiu
+              <br>
+              <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. [Under Review]</em><br>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/icra2026.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle><strong>VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping</strong>
+                </papertitle>
+              <br>
+                Y. Zhu, <strong>Y. Zhang</strong>, J. Xu, and J. Baillieul
+              <br>
+              <em>IEEE International Conference on Robotics and Automation (ICRA), 2026. [Under Review]</em><br>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/acc2026_2.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle><strong>Expert-Augmented Distributed Multi-Agent Reinforcement Learning: Convergence Analysis and Performance Guarantees</strong>
+                </papertitle>
+              <br>
+                D. Wang, Y. Zhu, <strong>Y. Zhang</strong>, and W. Ren
+              <br>
+              <em>American Control Conference (ACC), 2026. [Under Review]</em><br>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:90%;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/acc2026_1.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle><strong>Asynchronous Multi-agent Hierarchical Reinforcement Learning with Bidirectional Coupling</strong>
+                </papertitle>
+              <br>
+                D. Wang, J. Xu, <strong>Y. Zhang</strong>, and W. Ren
               <br>
               <em>American Control Conference (ACC), 2026. [Under Review]</em><br>
             </td>
