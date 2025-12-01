@@ -78,6 +78,7 @@ author_profile: true
                 <strong>Y. Zhang</strong>, J. Xu, and W. Ren
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.</em><br>
+              <a href="https://ieeexplore.ieee.org/document/11246511"><strong>[Paper]</strong></a>
               <a href="https://arxiv.org/pdf/2503.07955.pdf"><strong>[arXiv]</strong></a>
               <a href="https://www.youtube.com/watch?v=IQa0jWpVIGA"><strong>[Video]</strong></a>
             </td>
@@ -110,6 +111,7 @@ author_profile: true
                 <strong>Y. Zhang</strong>, D. Wang, J. Xu, M. Liu, P. Zhu, and W. Ren
               <br>
               <em>IEEE International Conference on Automation Science and Engineering (CASE), 2025.</em><br>
+              <a href="https://ieeexplore.ieee.org/document/11163827"><strong>[Paper]</strong></a>
               <a href="https://arxiv.org/pdf/2503.07952.pdf"><strong>[arXiv]</strong></a>
               <a href="https://www.youtube.com/watch?v=MhzMGQR_3-U"><strong>[Video]</strong></a>
             </td>
