@@ -17,7 +17,7 @@ author_profile: true
               <br>
                 B. Wu, R. Mo, J. Yue, <strong>Y. Zhang</strong>, J. Nguyen, G. Wu, A. Chowdhury, M. Barth, and H. Qiu
               <br>
-              <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. [Under Review]</em><br>
+              <em>The European Conference on Computer Vision (ECCV), 2026. [Under Review]</em><br>
             </td>
           </tr>
     </table>
