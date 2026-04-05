@@ -29,8 +29,8 @@ author_profile: true
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle><strong>VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping</strong>
                 </papertitle>
-              <br>
-                Y. Zhu<strong><sup>*</sup></strong>, <strong>Y. Zhang<sup>*</sup></strong>, J. Xu, and W. Ren
+              <br>s
+                Y. Zhu, <strong>Y. Zhang</strong>, J. Xu, and W. Ren
               <br>
               <em>IEEE International Conference on Robotics and Automation (ICRA), 2026.</em><br>
             </td>
